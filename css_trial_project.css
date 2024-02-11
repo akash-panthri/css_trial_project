@@ -1,0 +1,111 @@
+body{
+    display: inline-block;
+}
+.container{
+    height: 600px;
+    width: 600px;
+    display: grid;
+    position: relative;
+    box-sizing: content-box;
+}
+#a1{
+    left: 0;
+    top: 0;
+    background-color: #bfaced;
+}
+#a2{
+    right: 0;
+    background-color: #1fa6ed;
+    top: 0;
+}
+#a3{
+    bottom: 0;
+    background-color: #b6ac1d;
+    left: 0;
+}
+#a4{
+    bottom: 0;
+    background-color: #b6261d;
+    right: 0;
+
+}
+#a5{
+    
+    background-color: #fbdace;
+    align-self: center;
+    justify-self: center;
+
+}
+.box{
+    position: absolute;
+    height: 50%;
+    width: 50%;
+}
+#b1{
+    left: 0;
+    top: 0;
+    background-color: #bfaced;
+}
+#b2{
+    right: 0;
+    background-color: #1fa6ed;
+    top: 0;
+}
+#b3{
+    bottom: 0;
+    background-color: #b6ac1d;
+    left: 0;
+}
+#b4{
+    bottom: 0;
+    background-color: #b6261d;
+    right: 0;
+
+}
+#b5{
+    
+    background-color: #fbdace;
+    align-self: center;
+    justify-self: center;
+
+}
+
+
+
+
+
+
+
+#c1{
+    left: 0;
+    top: 0;
+    background-color: #bfaced;
+}
+#c2{
+    right: 0;
+    background-color: #1fa6ed;
+    top: 0;
+}
+#c3{
+    height: 100%;
+    bottom: 0;
+    background-color: #b6ac1d;
+    left: 0;
+}
+#c4{
+    bottom: 0;
+    background-color: #b6261d;
+    right: 0;
+    width: 100%;
+
+}
+#c5{
+    
+    background-color: #fbdace;
+    align-self: center;
+    justify-self: center;
+
+}
+
+
+
